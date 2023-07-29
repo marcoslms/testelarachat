@@ -16,3 +16,4 @@ const mix = require('laravel-mix');
  .sass('resources/sass/app.scss', 'public/css')
  .css('resources/css/chat.css', 'public/css')
  .version();
+
